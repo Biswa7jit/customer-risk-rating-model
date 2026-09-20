@@ -2,13 +2,7 @@
 
 A no-code customer risk rating model for KYC/CDD, implementing a
 standard **FATF risk-based approach (RBA)** — built entirely in
-Excel formulas. No Python, no SQL, no VBA, no add-ins.
-
-This is the fourth project in a small AML/KYC portfolio series
-(alongside a SQL transaction monitoring project, an Excel transaction
-monitoring project, and an Excel sanctions/PEP screening project) —
-each demonstrating a different piece of the compliance toolkit
-through a different lens.
+Excel formulas.
 
 ## Why this project
 
@@ -78,7 +72,7 @@ landed where they did.
 
 ## Key formulas used
 
-All standard Excel — no add-ins, no VBA:
+All standard Excel:
 
 - **`INDEX`/`MATCH`** — pulling each customer's risk tier from all
   five reference tables.
