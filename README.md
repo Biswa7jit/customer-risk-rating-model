@@ -145,9 +145,6 @@ re-tune without rewriting formulas isn't one they can actually govern.
 
 ## About
 
-Built by [Your Name], CAMS-certified compliance analyst, as a
+Built by Biswajit Das, CAMS-certified compliance analyst, as a
 portfolio piece demonstrating KYC/CDD risk-based-approach logic
-without a coding dependency. See also: [link to SQL AML project],
-[link to Excel AML transaction monitoring project], [link to
-Sanctions & PEP screening project], and [link to Medium AML article
-series].
+without a coding dependency.
