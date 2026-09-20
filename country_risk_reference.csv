@@ -1,0 +1,31 @@
+country,risk_tier,fatf_status
+US,Low,None
+CA,Low,None
+GB,Low,None
+DE,Low,None
+FR,Low,None
+JP,Low,None
+AU,Low,None
+SG,Low,None
+NL,Low,None
+CH,Low,None
+IN,Medium,None
+BR,Medium,None
+MX,Medium,None
+ZA,Medium,None
+TH,Medium,None
+AE,Medium,None
+TR,Medium,FATF grey list
+PH,Medium,FATF grey list
+VN,Medium,None
+HK,Medium,None
+SY,High,FATF black list
+KP,High,FATF black list
+IR,High,FATF black list
+MM,High,FATF black list
+AF,High,FATF grey list
+YE,High,FATF grey list
+SD,High,FATF grey list
+PA,High,FATF grey list
+CY,High,None - high-risk offshore profile
+BY,High,None - sanctioned regime proximity

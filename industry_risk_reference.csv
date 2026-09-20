@@ -1,0 +1,21 @@
+industry,risk_tier
+Salaried Employment,Low
+Retail Trade,Low
+IT Services,Low
+Healthcare,Low
+Education,Low
+Government Employment,Low
+Manufacturing,Medium
+Construction,Medium
+Real Estate,Medium
+Import / Export Trading,Medium
+Legal Services,Medium
+NGO / Charity,Medium
+Consulting,Medium
+Money Services Business (MSB),High
+Casino / Gaming,High
+Precious Metals & Stones Dealer,High
+Cryptocurrency Exchange,High
+Arms & Defense Trading,High
+"Cash-Intensive Retail (e.g. car wash, convenience store)",High
+Shipping & Freight Forwarding,High

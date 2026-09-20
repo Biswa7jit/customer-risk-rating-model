@@ -1,0 +1,26 @@
+customer_id,customer_name,geo_risk_tier,industry_risk_tier,product_risk_tier,channel_risk_tier,customer_type_risk_tier,weighted_score,base_rating,is_pep,adverse_media_flag,override_reason,final_risk_rating,cdd_requirement,review_frequency
+K001,Rebecca Lin,Low,Low,Low,Low,Low,1,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K002,Marcus Webb,Low,Low,Low,Low,Low,1,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K003,Aiko Tanaka,Low,Low,Low,Medium,Low,1.2,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K004,Global Freight Solutions Ltd,Low,High,Medium,Low,Medium,1.75,Medium,0,0,,Medium,Standard CDD + enhanced monitoring,Review every 2 years
+K005,Henrik Larsen,Low,Medium,Low,Medium,Medium,1.55,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K006,Priya Raman,Medium,Low,Low,Medium,Low,1.45,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K007,Whitfield & Associates LLP,Low,Medium,Low,Low,Medium,1.35,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K008,Nour Haddad,Medium,Medium,Medium,Low,Medium,1.8,Medium,0,0,,Medium,Standard CDD + enhanced monitoring,Review every 2 years
+K009,Grace Ito,Low,Low,Low,Low,Low,1,Low,1,0,PEP override,High,Enhanced Due Diligence (EDD),Annual review
+K010,Silverline Trading FZE,Medium,High,High,High,High,2.75,High,0,0,,High,Enhanced Due Diligence (EDD),Annual review
+K011,Anatoly Sokolov,Medium,Medium,High,High,Medium,2.4,High,0,1,Adverse media override,High,Enhanced Due Diligence (EDD),Annual review
+K012,Maria Fernandez,Medium,Low,Low,Low,Low,1.25,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K013,Consolidated Metals JSC,High,High,High,High,High,3,High,0,0,,High,Enhanced Due Diligence (EDD),Annual review
+K014,Tobias Reiner,Low,Medium,Low,Low,Low,1.2,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K015,Fatima Al-Zahra,Medium,Medium,Low,Medium,Medium,1.8,Medium,0,0,,Medium,Standard CDD + enhanced monitoring,Review every 2 years
+K016,Northbridge Capital Partners,High,Medium,Medium,High,High,2.6,High,0,0,,High,Enhanced Due Diligence (EDD),Annual review
+K017,Daniel Osei,Low,Low,Low,Low,Low,1,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K018,Elena Petrova,High,High,High,High,Medium,2.85,High,0,0,,High,Enhanced Due Diligence (EDD),Annual review
+K019,Carlos Mendez,Medium,Low,Low,Low,Low,1.25,Low,1,0,PEP override,High,Enhanced Due Diligence (EDD),Annual review
+K020,Sophie Bergman,Low,Low,Low,Low,Low,1,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K021,Everline Trading DMCC,Medium,High,High,High,High,2.75,High,0,0,,High,Enhanced Due Diligence (EDD),Annual review
+K022,Ravi Kapoor,Medium,Medium,Low,Medium,Low,1.65,Medium,0,0,,Medium,Standard CDD + enhanced monitoring,Review every 2 years
+K023,Jonas Weber,Low,Medium,Medium,Low,Low,1.4,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years
+K024,Amara Diallo,High,Medium,High,High,Medium,2.65,High,0,0,,High,Enhanced Due Diligence (EDD),Annual review
+K025,Lucas Meyer,Low,Low,Low,Low,Low,1,Low,0,0,,Low,Simplified/Standard CDD,Review every 3 years

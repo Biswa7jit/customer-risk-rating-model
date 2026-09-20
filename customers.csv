@@ -1,0 +1,26 @@
+customer_id,customer_name,customer_type,country,industry,product_type,delivery_channel,is_pep,adverse_media_flag,expected_annual_txn_volume_usd,onboarding_date
+K001,Rebecca Lin,Individual - Salaried,US,IT Services,Checking Account,Face-to-Face / Branch,0,0,45000,2024-01-10
+K002,Marcus Webb,Individual - Salaried,US,Healthcare,Savings Account,Face-to-Face / Branch,0,0,38000,2023-06-22
+K003,Aiko Tanaka,Individual - Salaried,JP,Education,Checking Account,Online / Digital Onboarding (verified),0,0,52000,2024-03-15
+K004,Global Freight Solutions Ltd,Private Company - Simple Ownership,SG,Shipping & Freight Forwarding,Trade Finance,Face-to-Face / Branch,0,0,2500000,2022-11-01
+K005,Henrik Larsen,Individual - Self-Employed,NL,Consulting,Checking Account,Online / Digital Onboarding (verified),0,0,90000,2023-09-08
+K006,Priya Raman,Individual - Salaried,IN,IT Services,Checking Account,Online / Digital Onboarding (verified),0,0,30000,2024-02-19
+K007,Whitfield & Associates LLP,Private Company - Simple Ownership,GB,Legal Services,Checking Account,Face-to-Face / Branch,0,0,780000,2021-05-14
+K008,Nour Haddad,Individual - Self-Employed,AE,Real Estate,Private Banking,Face-to-Face / Branch,0,0,610000,2022-08-30
+K009,Grace Ito,Individual - Salaried,JP,Government Employment,Checking Account,Face-to-Face / Branch,1,0,60000,2020-04-12
+K010,Silverline Trading FZE,Private Company - Complex/Layered Ownership,AE,Precious Metals & Stones Dealer,Correspondent Banking,Introduced by Third Party / Correspondent,0,0,4200000,2023-01-20
+K011,Anatoly Sokolov,Individual - Self-Employed,TR,Import / Export Trading,International Wire Transfers,Non-Resident Remote Onboarding,0,1,350000,2023-07-02
+K012,Maria Fernandez,Individual - Salaried,MX,Retail Trade,Checking Account,Face-to-Face / Branch,0,0,28000,2024-05-01
+K013,Consolidated Metals JSC,Private Company - Complex/Layered Ownership,CY,Cryptocurrency Exchange,Cryptocurrency Services,Non-Resident Remote Onboarding,0,0,8900000,2023-10-11
+K014,Tobias Reiner,Individual - Salaried,DE,Manufacturing,Savings Account,Face-to-Face / Branch,0,0,41000,2022-02-17
+K015,Fatima Al-Zahra,Individual - Self-Employed,AE,NGO / Charity,Checking Account,Online / Digital Onboarding (verified),0,0,120000,2023-03-25
+K016,Northbridge Capital Partners,Trust / Foundation,CY,Consulting,Private Banking,Introduced by Third Party / Correspondent,0,0,3100000,2022-12-09
+K017,Daniel Osei,Individual - Salaried,GB,Education,Checking Account,Face-to-Face / Branch,0,0,33000,2024-04-08
+K018,Elena Petrova,Individual - Self-Employed,BY,Money Services Business (MSB),International Wire Transfers,Non-Resident Remote Onboarding,0,0,970000,2023-11-19
+K019,Carlos Mendez,Government Entity,MX,Government Employment,Checking Account,Face-to-Face / Branch,1,0,15000,2019-09-01
+K020,Sophie Bergman,Individual - Salaried,CH,Healthcare,Savings Account,Face-to-Face / Branch,0,0,47000,2023-08-14
+K021,Everline Trading DMCC,Private Company - Complex/Layered Ownership,AE,"Cash-Intensive Retail (e.g. car wash, convenience store)",Cash-Intensive Business Account,Introduced by Third Party / Correspondent,0,0,1850000,2024-06-03
+K022,Ravi Kapoor,Individual - Salaried,IN,Manufacturing,Checking Account,Online / Digital Onboarding (verified),0,0,36000,2024-01-27
+K023,Jonas Weber,Publicly Listed Company,DE,Manufacturing,Trade Finance,Face-to-Face / Branch,0,0,12500000,2020-07-15
+K024,Amara Diallo,Individual - Self-Employed,SY,Import / Export Trading,International Wire Transfers,Non-Resident Remote Onboarding,0,0,410000,2023-02-11
+K025,Lucas Meyer,Individual - Salaried,FR,IT Services,Checking Account,Face-to-Face / Branch,0,0,39000,2024-03-30

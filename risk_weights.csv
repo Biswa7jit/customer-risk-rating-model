@@ -1,0 +1,6 @@
+risk_factor,weight,description
+Geographic Risk,0.25,Customer's country of residence/incorporation
+Industry / Occupation Risk,0.2,Sector or occupation the customer operates in
+Product & Service Risk,0.2,Products/services the customer will use
+Customer / Entity Type Risk,0.15,"Individual vs. entity, ownership complexity"
+Delivery Channel Risk,0.2,How the customer was onboarded
