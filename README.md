@@ -105,9 +105,9 @@ and channel — would score Low on the weighted model alone. The PEP
 override catches what the weighted average would have missed
 entirely, which is exactly the design intent.
 
-![Reference tables](screenshots/reference_tables.png)
+![Reference tables](reference_tables.png)
 
-![Risk assessment results](screenshots/risk_assessment.png)
+![Risk assessment results](risk_assessment.png)
 
 ## A note on thresholds and weights
 
